@@ -1,16 +1,18 @@
 
 import "./App.css";
-import Home from "../src/components/sections/Home";
-import Navbar from "../src/components/sections/Navbar";
- 
+import Home from "../src/components/sections/home/Home";
+import Navbar from "../src/components/sections/navbar/Navbar";
+import About from "../src/components/sections/about/About";
+
 function App() {
   return (
     <>
-    <Navbar />
+      <Navbar />
       <Home />
+      <About />
     </>
   );
 }
- 
+
 export default App;
 
