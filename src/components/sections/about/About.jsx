@@ -19,7 +19,7 @@ const About = () => {
                 </p>
                 <p className="text">
                 Desde 1985 amplia experiencia en el ámbito de la ingeniería, mantenimiento y servicios en la industria 
-Actualmente y desde el año 2004 brindando servicios de CONSULTORIA Y CAPACITACION sobre SISTEMAS DE BOMBEO Y BOMBAS CENTRIFUGAS a muchas e importantes empresas industriales con sus procesos con sistemas de bombeo centrifugo, de diversos segmentos : minería, petróleo, quimicas, petroquimicas, centrales termoeléctricas, agroindustrias azucarera, alcohol, citrícolas, alimenticias, etc..
+Actualmente y desde el año 2004 brindando servicios de CONSULTORIA Y CAPACITACION sobre SISTEMAS DE BOMBEO Y BOMBAS CENTRIFUGAS a muchas e importantes empresas industriales con sus procesos con sistemas de bombeo centrifugo, de diversos segmentos : minería, petróleo, quimicas, petroquimicas, centrales termoeléctricas, agroindustrias azucarera, alcohol, citrícolas, alimenticias, etc.
                 </p>
             </div>
         </>
