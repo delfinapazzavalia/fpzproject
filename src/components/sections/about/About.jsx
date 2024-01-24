@@ -9,7 +9,7 @@ const About = () => {
             <div id="AboutMe" className="about-me-container">
                 <h2 className="title">ACERCA DE</h2>
                 <p className="text">
-                    Ingeniero Mecánico
+Bautista
                 </p>
                 <p className="text">
                     Facultad de Ciencias Exactas y Tecnologia - Universidad Nacional de Tucumán, Argentina
